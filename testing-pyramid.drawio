@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" modified="2020-08-02T16:32:53.405Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="9KDZywl59vxrh7Z42Pdo" version="13.5.8" type="github">
+  <diagram id="l4t8EuAewA6upw1Rmes1" name="Page-1">
+    <mxGraphModel dx="1130" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tLEfYVWBrWjar2sDDGFF-1" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="245.16000000000003" y="340" width="360" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="tLEfYVWBrWjar2sDDGFF-3" value="" style="endArrow=none;html=1;exitX=0.274;exitY=0.135;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.267;entryY=0.863;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250.96000000000004" y="661.3599999999999" as="sourcePoint" />
+            <mxPoint x="600.4000000000001" y="663.8799999999999" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLEfYVWBrWjar2sDDGFF-5" value="" style="endArrow=none;html=1;entryX=0.547;entryY=0.726;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.547;exitY=0.278;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tLEfYVWBrWjar2sDDGFF-1" target="tLEfYVWBrWjar2sDDGFF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155.16000000000003" y="150" as="sourcePoint" />
+            <mxPoint x="595.1600000000001" y="100" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLEfYVWBrWjar2sDDGFF-13" value="&lt;b&gt;Unit Tests&lt;/b&gt;&lt;br&gt;Test individual units of code&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="660" width="350" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tLEfYVWBrWjar2sDDGFF-15" value="&lt;b&gt;Integration Tests&lt;/b&gt;&lt;br&gt;Testing different components&lt;br&gt;of a system work correctly when&lt;br&gt;combined together.&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tLEfYVWBrWjar2sDDGFF-16" value="&lt;b&gt;Functional/Feature&lt;br&gt;Tests&lt;/b&gt;&lt;br&gt;Testing an entire slice of functionality of the system." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330.16" y="490" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLEfYVWBrWjar2sDDGFF-19" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="780" as="sourcePoint" />
+            <mxPoint x="660" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLEfYVWBrWjar2sDDGFF-22" value="Number of Tests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="780" width="460" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
