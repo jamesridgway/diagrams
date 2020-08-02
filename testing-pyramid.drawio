@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-02T16:32:53.405Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="9KDZywl59vxrh7Z42Pdo" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-02T16:38:40.634Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="lSa7AkgMajndS_m1pa8w" version="13.5.8" type="github">
   <diagram id="l4t8EuAewA6upw1Rmes1" name="Page-1">
-    <mxGraphModel dx="1130" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1010" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,6 +38,24 @@
         </mxCell>
         <mxCell id="tLEfYVWBrWjar2sDDGFF-22" value="Number of Tests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="780" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tLEfYVWBrWjar2sDDGFF-27" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="760" as="sourcePoint" />
+            <mxPoint x="410" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLEfYVWBrWjar2sDDGFF-30" value="Functional confidence" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-56.7;" vertex="1" parent="1">
+          <mxGeometry x="50.5" y="560.94" width="440" height="24.18" as="geometry" />
+        </mxCell>
+        <mxCell id="tLEfYVWBrWjar2sDDGFF-31" value="" style="endArrow=none;html=1;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="760" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLEfYVWBrWjar2sDDGFF-32" value="Ease of writing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=56.9;direction=west;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="560.94" width="440" height="24.18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
