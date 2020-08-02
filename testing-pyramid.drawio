@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-02T16:38:40.634Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="lSa7AkgMajndS_m1pa8w" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-02T16:40:20.466Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="pMRHWyNeWryysQuSuWkQ" version="13.5.8" type="github">
   <diagram id="l4t8EuAewA6upw1Rmes1" name="Page-1">
     <mxGraphModel dx="1010" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
             <mxPoint x="440" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tLEfYVWBrWjar2sDDGFF-32" value="Ease of writing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=56.9;direction=west;flipH=1;" vertex="1" parent="1">
+        <mxCell id="tLEfYVWBrWjar2sDDGFF-32" value="Ease of Writing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=56.9;direction=west;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="560.94" width="440" height="24.18" as="geometry" />
         </mxCell>
       </root>
