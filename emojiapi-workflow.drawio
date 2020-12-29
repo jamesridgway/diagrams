@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T13:22:28.533Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="SUOzt0FLDB7n7vvzWLq-" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-29T13:23:22.309Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Mt-YAwQ6FTb6G3sdBwFc" version="14.1.3" type="github">
   <diagram id="-hMiYwZMU71feqzi6FF7" name="Page-1">
-    <mxGraphModel dx="2019" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2019" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,7 +75,7 @@
         <mxCell id="i7k8HtbTjAfTRzKyq_zg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i7k8HtbTjAfTRzKyq_zg-11" target="i7k8HtbTjAfTRzKyq_zg-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i7k8HtbTjAfTRzKyq_zg-11" value="Retrieve the image&lt;br&gt;in S3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="i7k8HtbTjAfTRzKyq_zg-11" value="Store the image&lt;br&gt;in S3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i7k8HtbTjAfTRzKyq_zg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i7k8HtbTjAfTRzKyq_zg-12" target="i7k8HtbTjAfTRzKyq_zg-5">
